@@ -51,7 +51,6 @@ void spiralPrint(int m, int n, int a[R][C])
     }
 }
  
-/* Driver program to test above functions */
 int main()
 {
     int a[R][C] = { {1,  2,  3,  4,  5,  6},
