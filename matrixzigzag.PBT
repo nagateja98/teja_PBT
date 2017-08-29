@@ -1,8 +1,8 @@
-// Java program to print matrix in zig-zag form
+
  
-public class GFG
+public class sample
 {
-    // Method to print matrix in zig-zag form
+   
     static  void printZigZag(int row, int col, int a[][])
     {
         int evenRow = 0; //starts from the first row
